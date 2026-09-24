@@ -27,7 +27,7 @@ The goal was not only to produce numerical outputs, but also to understand what 
 
 #  Projects
 
-## 1.  Business Analytics — Sales Performance Calculator
+## 1.  Business Analytics - Sales Performance Calculator
 
 **Focus:** Retail Sales Analysis
 
@@ -68,7 +68,7 @@ The exercise demonstrated the difference between **total performance** and **ave
 
 ---
 
-## 2.  Education Analytics — Student Performance Analysis
+## 2.  Education Analytics - Student Performance Analysis
 
 **Focus:** Student Scores and Variation
 
@@ -112,7 +112,7 @@ Examining deviations provides additional information about how individual scores
 
 ---
 
-## 3.  Engineering & Scientific Computing — Trigonometric Series
+## 3.  Engineering & Scientific Computing - Trigonometric Series
 
 **Focus:** Numerical Sequences and Mathematical Computation
 
@@ -156,7 +156,7 @@ The experiment demonstrated how NumPy can be used to translate mathematical expr
 
 ---
 
-## 4.  Renewable Energy — Solar Grid Numerical Experiment
+## 4.  Renewable Energy - Solar Grid Numerical Experiment
 
 **Focus:** Solar Power Output and Temperature Effects
 
