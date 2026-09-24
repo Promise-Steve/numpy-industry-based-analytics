@@ -2,6 +2,8 @@
 
 **Practical applications of Python and NumPy to real-world numerical and analytical problems.**
 
+<img width="1672" height="941" alt="project thumbnail" src="https://github.com/user-attachments/assets/04f4da4e-5020-4e9f-93ce-e736c6b81a8f" />
+
 ---
 
 ##  About This Repository
@@ -28,6 +30,8 @@ The goal was not only to produce numerical outputs, but also to understand what 
 #  Projects
 
 ## 1.  Business Analytics - Sales Performance Calculator
+
+<img width="1054" height="719" alt="Screenshot 2026-09-24 121112" src="https://github.com/user-attachments/assets/c4a94021-3d73-43b9-8329-659005261a1a" />
 
 **Focus:** Retail Sales Analysis
 
@@ -69,6 +73,8 @@ The exercise demonstrated the difference between **total performance** and **ave
 ---
 
 ## 2.  Education Analytics - Student Performance Analysis
+
+<img width="1323" height="725" alt="Screenshot 2026-09-24 120857" src="https://github.com/user-attachments/assets/fe73bcc6-30dd-4091-9ea4-acde563e0023" />
 
 **Focus:** Student Scores and Variation
 
@@ -114,6 +120,8 @@ Examining deviations provides additional information about how individual scores
 
 ## 3.  Engineering & Scientific Computing - Trigonometric Series
 
+<img width="1699" height="705" alt="Screenshot 2026-09-24 120156" src="https://github.com/user-attachments/assets/7a9cca43-40f8-419a-ac29-3ec1f51855e9" />
+
 **Focus:** Numerical Sequences and Mathematical Computation
 
 This project explores a mathematical series using NumPy and examines how the resulting numerical value changes as the number of terms increases.
@@ -157,6 +165,7 @@ The experiment demonstrated how NumPy can be used to translate mathematical expr
 ---
 
 ## 4.  Renewable Energy - Solar Grid Numerical Experiment
+<img width="1397" height="734" alt="Screenshot 2026-09-24 121225" src="https://github.com/user-attachments/assets/6b73cc12-a66e-46d3-ab96-d6122d33def8" />
 
 **Focus:** Solar Power Output and Temperature Effects
 
